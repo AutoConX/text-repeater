@@ -1,6 +1,6 @@
 {
   "name": "text-repeater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repeat a text pattern for a certain count.",
   "main": "index.js",
   "scripts": {
