@@ -1,4 +1,4 @@
-# text-repeater [![Build Status](https://travis-ci.org/sindresorhus/is-up.svg?branch=master)](https://travis-ci.org/sindresorhus/is-up)
+# text-repeater [![Build Status](https://travis-ci.org/AutoConX/text-repeater.svg?branch=master)](https://travis-ci.org/AutoConX/text-repeater)
 
 > Repeat a text pattern for a certain count.
 
